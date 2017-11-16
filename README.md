@@ -1,6 +1,6 @@
 # Vue plugin for [sortablejs.](https://github.com/RubaXa/Sortable)
 
-![Image of vue-rhythm](https://raw.githubusercontent.com/psr1919plus21/vue-sotrable-plugin/master/vue-sotrable-plugin.jpg)
+![Image of vue-sotable-plugin](https://raw.githubusercontent.com/psr1919plus21/vue-sortable-plugin/master/vue-sotrable-plugin.jpg)
 
 Get *vue-sotrable-plugin*
 ----------
