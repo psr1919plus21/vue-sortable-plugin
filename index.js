@@ -1,4 +1,4 @@
-import Sortable from 'sortablejs';
+let Sortable = require('sortablejs');
 
 export const sortable = {
   install: function (Vue) {
