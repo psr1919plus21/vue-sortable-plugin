@@ -1,0 +1,24 @@
+{
+  "name": "vue-sortable-plugin",
+  "version": "1.0.0",
+  "description": "vue plugin for sortablejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "sortable",
+    "sortablejs",
+    "vue-sortable",
+    "vue-sortablejs",
+    "vuesortable",
+    "vue-sortable-js"
+  ],
+  "author": "Fil Gaponenko",
+  "license": "MIT",
+  "dependencies": {
+    "sortablejs": "^1.7.0"
+  }
+}
