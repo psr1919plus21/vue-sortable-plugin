@@ -1,6 +1,6 @@
 let Sortable = require('sortablejs');
 
-export const sortable = {
+module.exports.sortable = {
   install: function (Vue) {
     Vue.prototype.sortableInit = function ({selectorId, context, model}) {
       this.$nextTick(() => {
