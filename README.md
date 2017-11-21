@@ -80,7 +80,7 @@ Settings
 
 `onEndCb` – accepts callback function, that will be run after model changes.
 
-**Caution! vie-sortable-plugin use dortablejs's onEnd callback underhood, dont't override it. Use onEndCb instead.**
+**Caution! vue-sortable-plugin use sortablejs's onEnd callback underhood, dont't override it. Use onEndCb instead.**
 
 
 License
