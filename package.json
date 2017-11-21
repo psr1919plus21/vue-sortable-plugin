@@ -1,6 +1,6 @@
 {
   "name": "vue-sortable-plugin",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "vue plugin for sortablejs ",
   "main": "index.js",
   "scripts": {

@@ -9,7 +9,7 @@ Here several ways to get *vue-sotrable-plugin*:
 
 **download**
 Copypaste plugun in your project:
-[Get vue-sotrable-plugin](https://raw.githubusercontent.com/psr1919plus21/vue-sotrable-plugin/master/index.js)
+[Get vue-sotrable-plugin](https://raw.githubusercontent.com/psr1919plus21/vue-sortable-plugin/master/index.js)
 
 **npm**
 
