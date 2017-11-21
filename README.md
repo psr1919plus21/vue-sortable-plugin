@@ -50,7 +50,12 @@ in script:
           this.sortableInit({
             context: this,
             selectorId: 'my-awesome-list',
-            model: 'items'
+            model: 'items',
+            settings: {
+              onEndCb: function() {
+
+              }
+            }
           });
         }
      })
@@ -62,11 +67,21 @@ Settings
 ---------
 
 *vue-sotrable-plugin* add global method `sortableInit` to all Vue incstances including components.
+
 `sortableInit` accepts options object with following fields:
 
 `context` – link for vue instance object.
+
 `selectorId` – Id of sortable items parrent.
+
 `model` – string. Name of sortable array in `data` field.
+
+`settings` – accepts sortablejs [options object](https://github.com/RubaXa/Sortable#options)
+
+`onEndCb` – accepts callback function, that will be run after model changes.
+
+**Coution! vie-sortable-plugin use dortablejs's onEnd callback underhood, dont't override it. Use onEndCb instead.**
+
 
 License
 =======
